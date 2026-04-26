@@ -1,0 +1,27 @@
+﻿  OK math-9-ch1: Number Systems
+  OK math-9-ch2: Polynomials
+  OK math-9-ch3: Coordinate Geometry
+  OK sci-9-ch1: Matter in Our Surroundings
+  OK sci-9-ch2: Atoms and Molecules
+  OK sci-9-ch3: The Fundamental Unit of Life
+  OK sci-9-ch4: Structure of the Atom
+  OK eng-9-ch1: The Fun They Had
+  OK eng-9-ch2: The Sound of Music
+  OK sst-9-ch1: French Revolution
+  OK sst-9-ch2: Socialism in Europe
+  OK sst-9-ch3: Nazism and the Rise of Hitler
+  OK hin-9-ch1: αñªαÑï αñ¼αÑêαñ▓αÑïαñé αñòαÑÇ αñòαñÑαñ╛
+  OK math-10-ch1: Real Numbers
+  OK math-10-ch2: Polynomials
+  OK math-10-ch3: Quadratic Equations
+  OK sci-10-ch1: Chemical Reactions and Equations
+  OK sci-10-ch2: Acids Bases and Salts
+  OK sci-10-ch3: Metals and Non-metals
+  OK eng-10-ch1: A Letter to God
+  OK eng-10-ch2: Nelson Mandela
+  OK sst-10-ch1: Nationalism in India
+  OK sst-10-ch2: The Nationalist Movement in Indo-China
+  OK sst-10-ch3: Industrialisation
+  OK hin-10-ch1: αñ╕αÑéαñ░αñªαñ╛αñ╕ αñòαÑç αñ¬αñª
+
+All chapters seeded successfully.
